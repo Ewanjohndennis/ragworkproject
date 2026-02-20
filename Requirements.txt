@@ -1,0 +1,8 @@
+faiss-cpu
+sentence-transformers
+langchain
+langchain-core
+langchain-community
+langchain-huggingface
+langchain-text-splitters
+dotenv
