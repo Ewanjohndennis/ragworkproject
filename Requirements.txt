@@ -6,3 +6,9 @@ langchain-community
 langchain-huggingface
 langchain-text-splitters
 dotenv
+wikipedia
+huggingface_hub
+langchainhub
+langgraph
+langgraph-supervisor
+streamlit
