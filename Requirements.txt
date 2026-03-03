@@ -12,3 +12,4 @@ langchainhub
 langgraph
 langgraph-supervisor
 streamlit
+python-dotenv
